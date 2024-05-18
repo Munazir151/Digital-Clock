@@ -8,7 +8,7 @@ body{
     justify-content: center;
     justify-items: center;
     margin-top: 240px;
-    background-image: url(https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ifCqY.img);
+    background-image: url(https://i.ytimg.com/vi/_3OUQTruQRE/maxresdefault.jpg);
     background-size: cover;
    
 }
@@ -43,4 +43,21 @@ body{
         width: 90%;
     }
     
+}
+@media (min-width:560px ) and (max-width:1200px) 
+{
+    body{
+        height: 80vh;
+        width: 100%;
+        background-image: url(https://images.ctfassets.net/hrltx12pl8hq/7JnR6tVVwDyUM8Cbci3GtJ/bf74366cff2ba271471725d0b0ef418c/shutterstock_376532611-og.jpg);
+       
+       background-repeat: no-repeat;
+    }
+    
+    .clock{
+        height: 60px;
+        width: 40%;
+       
+    }
+   
 }
